@@ -1,0 +1,8 @@
+{
+	"TestLevel": {
+		"lossEnemyCount": 5
+	},
+	"Level1": {
+		"lossEnemyCount": 3
+	}
+}
